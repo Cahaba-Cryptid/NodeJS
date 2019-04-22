@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-lab",
+  "version": "1.0.0",
+  "description": "Making a Node project!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hayden Frank",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
